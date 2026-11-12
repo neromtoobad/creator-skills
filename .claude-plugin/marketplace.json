@@ -1,0 +1,146 @@
+{
+  "name": "creator-skills",
+  "owner": {
+    "name": "neromtoobad",
+    "url": "https://x.com/neromtoobad"
+  },
+  "metadata": {
+    "description": "54 Claude skills for creators: AI video, faceless channels, design, writing, Office files and app building."
+  },
+  "plugins": [
+    {
+      "name": "originals",
+      "source": "./",
+      "strict": false,
+      "description": "Originals: Made by me. Start here.",
+      "version": "1.0.0",
+      "category": "design",
+      "skills": [
+        "./skills/ui-motion-reel",
+        "./skills/ui-inspiration"
+      ]
+    },
+    {
+      "name": "video-content",
+      "source": "./",
+      "strict": false,
+      "description": "Video and content: Faceless channels, Higgsfield pipelines, scripts, hooks and repurposing.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "skills": [
+        "./skills/higgsfield-explainer",
+        "./skills/faceless-script-writer",
+        "./skills/faceless-video-prompts",
+        "./skills/higgsfield-content-factory",
+        "./skills/marketing-studio-director",
+        "./skills/story-production-pipeline",
+        "./skills/video-script-generator",
+        "./skills/hook-generator",
+        "./skills/content-repurposing-engine"
+      ]
+    },
+    {
+      "name": "remotion",
+      "source": "./",
+      "strict": false,
+      "description": "Remotion: Make videos with code (React).",
+      "version": "1.0.0",
+      "category": "development",
+      "skills": [
+        "./skills/remotion-best-practices",
+        "./skills/remotion-captions",
+        "./skills/remotion-create",
+        "./skills/remotion-docs",
+        "./skills/remotion-interactivity",
+        "./skills/remotion-maps",
+        "./skills/remotion-markup",
+        "./skills/remotion-multimedia",
+        "./skills/remotion-render",
+        "./skills/remotion-saas",
+        "./skills/remotion-studio",
+        "./skills/remotion-upgrade"
+      ]
+    },
+    {
+      "name": "writing",
+      "source": "./",
+      "strict": false,
+      "description": "Writing and thinking: Human-sounding copy, research and structure.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "skills": [
+        "./skills/anti-ai-slop-writing",
+        "./skills/structured-copywriting-skill",
+        "./skills/scqa-writing-framework",
+        "./skills/long-form-summary-compressor",
+        "./skills/knowledge-structuring-skill",
+        "./skills/deep-research-synthesizer",
+        "./skills/competitive-intelligence-skill",
+        "./skills/doc-coauthoring",
+        "./skills/internal-comms"
+      ]
+    },
+    {
+      "name": "design",
+      "source": "./",
+      "strict": false,
+      "description": "Design and visuals: UI polish, posters, generative art, diagrams and themes.",
+      "version": "1.0.0",
+      "category": "design",
+      "skills": [
+        "./skills/unslop",
+        "./skills/canvas-design",
+        "./skills/algorithmic-art",
+        "./skills/theme-factory",
+        "./skills/brand-guidelines",
+        "./skills/infographic-builder",
+        "./skills/excalidraw-diagram-generator",
+        "./skills/ui-ux-layout-advisor",
+        "./skills/slack-gif-creator"
+      ]
+    },
+    {
+      "name": "office-files",
+      "source": "./",
+      "strict": false,
+      "description": "Office files: Make and edit Word, PDF, PowerPoint and Excel files.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "skills": [
+        "./skills/docx",
+        "./skills/pdf",
+        "./skills/pptx",
+        "./skills/xlsx"
+      ]
+    },
+    {
+      "name": "builders",
+      "source": "./",
+      "strict": false,
+      "description": "Building apps and agents: Web apps, MCP servers, games, code review, new skills.",
+      "version": "1.0.0",
+      "category": "development",
+      "skills": [
+        "./skills/web-artifacts-builder",
+        "./skills/mcp-builder",
+        "./skills/skill-creator",
+        "./skills/game-studio",
+        "./skills/code-review-skill",
+        "./skills/workflow-automation-agent"
+      ]
+    },
+    {
+      "name": "web3",
+      "source": "./",
+      "strict": false,
+      "description": "Web3: Wallets and on-chain analysis.",
+      "version": "1.0.0",
+      "category": "development",
+      "skills": [
+        "./skills/binance-agentic-wallet",
+        "./skills/onchain-transaction-analyzer",
+        "./skills/intuition-mission-cook"
+      ]
+    }
+  ]
+}
