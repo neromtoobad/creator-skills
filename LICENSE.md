@@ -4,7 +4,7 @@ This repo collects skills from several makers. Each skill keeps its own terms.
 
 | Skills | Licence |
 |---|---|
-| `ui-motion-reel`, `ui-inspiration` | MIT (below) |
+| `ui-motion-reel`, `ui-inspiration`, `hack-brief` | MIT (below) |
 | `algorithmic-art`, `brand-guidelines`, `canvas-design`, `doc-coauthoring`, `internal-comms`, `mcp-builder`, `skill-creator`, `slack-gif-creator`, `theme-factory`, `web-artifacts-builder`, `docx`, `pdf`, `pptx`, `xlsx` | Apache 2.0, © Anthropic (see each folder's `LICENSE.txt`) |
 | `unslop` | CC-BY-4.0, © heydamir |
 | `remotion-*` | As published by Remotion |
@@ -16,7 +16,7 @@ If you made one of these skills and want it changed or removed, open an issue.
 
 ---
 
-## MIT License (ui-motion-reel, ui-inspiration)
+## MIT License (ui-motion-reel, ui-inspiration, hack-brief)
 
 Copyright (c) 2026 neromtoobad
 

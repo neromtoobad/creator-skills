@@ -5,7 +5,7 @@
     "url": "https://x.com/neromtoobad"
   },
   "metadata": {
-    "description": "54 Claude skills for creators: AI video, faceless channels, design, writing, Office files and app building."
+    "description": "55 Claude skills for creators: AI video, faceless channels, design, writing, Office files and app building."
   },
   "plugins": [
     {
@@ -17,7 +17,8 @@
       "category": "design",
       "skills": [
         "./skills/ui-motion-reel",
-        "./skills/ui-inspiration"
+        "./skills/ui-inspiration",
+        "./skills/hack-brief"
       ]
     },
     {

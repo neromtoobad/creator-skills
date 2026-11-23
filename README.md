@@ -1,6 +1,6 @@
 # creator-skills
 
-**54 ready-to-use skills for Claude** — AI video, faceless YouTube, design, writing, Office files and app building. Clone it, run one command, and Claude Code picks them up.
+**55 ready-to-use skills for Claude** — AI video, faceless YouTube, design, writing, Office files and app building. Clone it, run one command, and Claude Code picks them up.
 
 Collected and tested by [@neromtoobad](https://x.com/neromtoobad) while shipping 60+ AI-made apps, games, videos and sites. Two are my own originals; the rest are the best skills I use daily, credited to their makers.
 
@@ -53,6 +53,7 @@ Made by me. Start here.
 |---|---|---|
 | [`ui-motion-reel`](skills/ui-motion-reel) | Make a Dribbble-grade product motion video, a "showreel" or launch/demo video for an app, site or hackathon project. | **Original** |
 | [`ui-inspiration`](skills/ui-inspiration) | Find real design references before styling any UI — landing pages, app screens, portfolios, hackathon frontends, navbars, footers, 404s, dark mode,… | **Original** |
+| [`hack-brief`](skills/hack-brief) | Start a hackathon right: event facts and quoted judging, a scan of what other teams already built, what the sponsor wants, 3 ideas checked on live data, then a design. | **Original** |
 
 ### Video and content  ·  `video-content`
 
@@ -163,7 +164,7 @@ Wallets and on-chain analysis.
 
 ## Credits and licences
 
-Only `ui-motion-reel` and `ui-inspiration` are mine (MIT). Every other skill belongs to its maker and keeps its own terms: Anthropic's under Apache 2.0, unslop under CC-BY-4.0, and the Remotion, Higgsfield, Binance and plugin-directory skills as their makers published them. See [LICENSE.md](LICENSE.md).
+Only `ui-motion-reel`, `ui-inspiration` and `hack-brief` are mine (MIT). Every other skill belongs to its maker and keeps its own terms: Anthropic's under Apache 2.0, unslop under CC-BY-4.0, and the Remotion, Higgsfield, Binance and plugin-directory skills as their makers published them. See [LICENSE.md](LICENSE.md).
 
 **Made one of these?** If you'd like it credited differently, linked instead of copied, or removed, [open an issue](https://github.com/neromtoobad/creator-skills/issues) and I'll sort it the same day.
 
